@@ -49,17 +49,11 @@ Task-2-EDA-Business-Intelligence/
 ├── Dataset/
 │   └── Cleaned_Data.csv
 │
-├── SQL/
+├── Docs/
 │   └── Business_Queries.sql
 │
-├── Notebook/
-│   └── EDA_Analysis.ipynb
-│
 ├── Dashboard/
-│   └── Static_Dashboard.png
-│
-├── Report/
-│   └── EDA_Report.pdf
+│   └── Static_Dashboard.pn
 │
 ├── Images/
 │   └── Charts/
